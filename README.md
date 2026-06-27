@@ -1,6 +1,6 @@
 # Sales Prediction Using Python
 
-This repository contains a Data Science project focused on forecasting product sales based on advertising expenditures across multiple channels. This project was completed as part of the CodSoft Data Science Internship.
+This repository contains a Data Science project focused on forecasting product sales based on advertising expenditures across multiple channels. 
 
 ## Project Overview
 Sales prediction is a critical business problem that allows companies to optimize their marketing budgets and maximize revenue. By analyzing historical data tracking spend across **TV, Radio, and Newspaper** advertising, this project develops a predictive machine learning system to determine the financial return on investment (ROI) of marketing campaigns.
